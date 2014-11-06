@@ -1,0 +1,168 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+//#include "scanner.h"
+  
+  
+
+
+
+
+int helpWin(Board * p,int num,int row,int col,int rowDir,int colDir,int player,int count){
+
+    if (player != 2){
+        if (p->spaces[col][row] == 1 && col + colDir >= 0&& col + colDir < p->width && row + rowDir >= 0&& row + rowDir < p->height){
+            col = col + colDir;
+            row = row + rowDir;
+            count ++;
+            helpWin(p,num,row,col,rowDir,colDir,1,count);
+        }
+        else if(p->spaces[col][row] != 1){
+            //printf("%d\n",count );
+            return count;
+        }
+        else{
+           // printf("%d\n",count + 1);
+            return count + 1;
+        }
+    }
+
+    else if(player == 2){
+        if (p->spaces[col][row] == 2 && col + colDir >= 0&& col + colDir < p->width && row + rowDir >= 0&& row + rowDir < p->height){
+            col = col + colDir;
+            row = row + rowDir;
+            count ++;
+            helpWin(p,num,row,col,rowDir,colDir,2,count);
+        }
+        else if(p->spaces[col][row] != 2){
+            //printf("%d\n",count );
+            return count;
+        }
+        else{
+            return count + 1;
+        }
+
+    }
+    return helpWin(p,num,row,col,rowDir,colDir,player,count);
+    
+}
+int checkWin(Board * p,int player,int num,int move ){
+    int check,i,row;
+    for( i = p->height -1 ; i >= 0 ; i--)
+        {
+        if (p->spaces[move][i] != 0)
+        {
+            row = i;
+        }
+
+        }
+    check = 0;
+    check = helpWin(p,num,row,move,-1,0,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+    check =  helpWin(p,num,row,move,1,0,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+
+    
+    
+    check = helpWin(p,num,row,move,0,1,player,0);
+    
+    if (check >= 4)
+    {
+        return 1;
+    }
+    
+    check = helpWin(p,num,row,move,0,-1,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+    check = helpWin(p,num,row,move,1,1,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+    check = helpWin(p,num,row,move,-1,-1,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+    check = helpWin(p,num,row,move,-1,1,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+    check = helpWin(p,num,row,move,1,-1,player,0);
+    if (check >= 4)
+    {
+        return 1;
+    }
+    return 0;
+
+}
+void gameWin(int player){
+    
+}
+int main(int argc, char const *argv[])
+{ 
+	
+    srand(time(NULL));
+	int mode,w,h,move,played,win,n;
+    
+    mode = gamemode();
+    Board *gameboard ;
+    w = atoi(argv[1]);
+    h = atoi(argv[2]);
+    n = atoi(argv[3]);
+    gameboard = fillBoard(w,h); 
+    showBoard(gameboard);
+    int gameover = 0;
+    win = 0;
+
+
+
+    while(gameover == 0 && win == 0){
+    move = nextMove(gameboard,1);
+    
+    gameboard = MoveBoard(gameboard,move,1);
+    showBoard(gameboard);
+   //system("clear");
+
+    played =0;
+    
+    gameover = checkGame(gameboard);
+    //printf("hello\n");
+    win= checkWin(gameboard,1,n,move);
+    //printf("hello%d\n",gameover );
+    if (gameover != 1 && win == 0 )
+    {
+        move = compMove(gameboard);
+        }
+        
+            
+        while(mode == 2 && played ==0 && win ==0)
+            {
+            move = nextMove(gameboard,2);
+        
+            gameboard = MoveBoard(gameboard,move,2);
+            showBoard(gameboard);
+            played =1;
+            }
+        win= checkWin(gameboard,2,n,move);
+        gameover = checkGame(gameboard);
+    }
+    
+    //printf("%d\n",win );
+    }
+    
+	return 0;
+
+}
+
+
