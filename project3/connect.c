@@ -9,13 +9,14 @@
 //look at the included files to see what each function does
 int main(int argc, char const *argv[])
 { 
-    if (argc != 4)//checks for the correct number of argvs
+    if (argc != 5)//checks for the correct number of argvs
         {
-        printf("need three argvs\n");
+        printf("need four argvs\n");
         return -1;
         }
     //setup phase
-    srand((int) time(NULL));//seeds the random number generator
+    //srand((int) time(NULL)); //uses time as a seed much more random
+    srand((int) argv[4]);//seeds the random number generator
 	int mode,w,h,move,played,win,n;
     mode = gamemode();
     Board *gameboard ;
