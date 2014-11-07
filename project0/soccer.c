@@ -54,24 +54,18 @@ main(int argc, char **argv)
 void//changed the varable names to go with soccer terms and also the prompts
 getData(int *shots,int *corner,int *assists,int *goals,int *passes,int *touches)
     {
-    printf("Enter number of shots: ");
-    scanf(" %d",shots);  //shots  is a pointer already
-
-    printf("Enter number of corner kicks: ");
-    scanf(" %d",corner);
-
-    printf("Enter number of assists: ");
-    scanf(" %d",assists);
-
     printf("Enter number of goals: ");
     scanf(" %d",goals);
-
+    printf("Enter number of shots: ");
+    scanf(" %d",shots);  
+    printf("Enter number of corner kicks: ");
+    scanf(" %d",corner);
+    printf("Enter number of assists: ");
+    scanf(" %d",assists);
     printf("Enter number of passes: ");
     scanf(" %d",passes);
-
     printf("Enter numer of touches\n");
     scanf(" %d",touches);
-    return;
     }
 
 double//changed the math equation to the one for soccer and added/  changed the varable names
@@ -89,9 +83,8 @@ displayData(int shots,int corner,int assists,int goals,int passes,int touches)
     printf("\n");
     printf("goals: %d\n",goals);
     printf("shots: %d\n",shots);
-    printf("assists: %d\n",assists);
     printf("corner kicks: %d\n",corner);
+    printf("assists: %d\n",assists);
     printf("passes: %d\n",passes);
     printf("touches: %d\n", touches);
-    return;
     }
