@@ -71,10 +71,7 @@ getData(int *shots,int *corner,int *assists,int *goals,int *passes,int *touches)
 double//changed the math equation to the one for soccer and added/  changed the varable names
 computeRating(int shots,int corner,int assists,int goals,int passes,int touches)
     {
-    return ((5 * goals) + (4 * shots) + (3 * corner) + (2 * assists) + 
-passes) 
-/ 
-((double) (touches)); 
+    return ((5 * goals) + (4 * shots) + (3 * corner) + (2 * assists) + passes) / ((double) (touches)); 
     }
 
 void//changed varable names and added one more varable for the conversion
