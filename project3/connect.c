@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
         }
     //setup phase
     //srand((int) time(NULL)); //uses time as a seed much more random
-    srand((int) atoi(argv[4]);//seeds the random number generator
+    srand((int) atoi(argv[4]));//seeds the random number generator
 	int mode,w,h,move,played,win,n;
     mode = gamemode();
     Board *gameboard ;
