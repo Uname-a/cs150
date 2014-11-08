@@ -12,7 +12,7 @@ main(int argc, char **argv)
     int countone,counttwo;
     if (argc != 3)
         {
-        printf("need one arguments!\n");
+        printf("need two arguments!\n");
         exit(1);
         }
     Movie **arrayone,**arraytwo,**finalarray;

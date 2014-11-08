@@ -33,7 +33,6 @@ readOption(FILE *fp)//added so that entering anything other than an int caused t
         }
     return x;
     }
-
 Movie * //template for the information
 newMovie(char *n,char *des,int y,int l,char * r,char *c, char * dir)
     {
