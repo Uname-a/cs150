@@ -9,13 +9,9 @@ int  countTokens(char *);
 char ** readRecord(FILE *fp);
 char *** readTable(char *fileName);
 char ** readMsg(char *fileName);
-
-//debugging functions
-void printTable(char ***table,int size);
-void printMsg(char **table,int size);
-
 //translating function
-char * translate(char *Msg,char ***Dic,int dicount);
+
+char * translate(char *Msg,char **Dic,int dicount);
 //free arrays
 void freeArray(char **r,int count);
-void freeTable(char ***table,int size);
+char ** readArray(char *fileName);
