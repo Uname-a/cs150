@@ -26,7 +26,6 @@ int main(int argc,char **argv)
         
         for (i = 0; i < msgcount; ++i)
         {
-          
           WorthlessPrint = translate(msg[i],dic,dicount);
        
           if (WorthlessPrint == 0)
