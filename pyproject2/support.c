@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include <ctype.h> 
+#include <ctype.h>
 #include "scanner.h"
 
 typedef struct entry
@@ -60,7 +60,7 @@ readMovieRecord(FILE *fp)         // we pass the file pointer in
     name = readString(fp);           //name is a string, not a token
     if (feof(fp))
         {
-        return 0; 
+        return 0;
         }      // no record, return the null pointer
     name = name;
     description = readString(fp);
@@ -108,7 +108,7 @@ readMovieRecordsList(char *fileName,int *finalSize)
 void //display the list of movies
 printMovies(Movie **entries,int count)
     {
-    int i;   
+    int i;
     printf("Movie Listings:\n");
     for (i=0; i < count; ++i)
         {
@@ -215,12 +215,12 @@ moviesRating(Movie **db,int count,char * before)
             }
         }
     }
-void 
+void
 displayMenu()
     {
     printf("Welcome to the Movie Database!\nMain menu:\n    1:  display all movies\n    2:  display shortest movie\n    3:  display longest movie\n    4:  display older movies\n    5:  display newer movies\n    6:  display movies by rating\n    7:  add movie (CHALLENGE)\n    8:  delete movie (CHALLENGE)\n    9:  save database (CHALLENGE)\n    0:  quit the program\nEnter an Option: ");
     }
-void 
+void
 query(Movie **db, int count)
     {
     int option;
@@ -257,7 +257,7 @@ query(Movie **db, int count)
             {
             printf("Display movies newer than what year? ");
             int before = readInt(stdin);
-            moviesAfter(db,count,before); 
+            moviesAfter(db,count,before);
             printf("Enter an option: ");
             }
         else if (option ==6)
