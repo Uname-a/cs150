@@ -4,14 +4,6 @@
 #include <string.h>
 #include <time.h>
 #include "gameio.h"
-
-
-typedef struct board
-        {
-        	int **spaces;
-        	int width;
-        	int height;
-        }Board;
 int legalMove(Board * p, int move)//checks if the move is legal
 	{
     int i;

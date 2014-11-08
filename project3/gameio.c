@@ -5,12 +5,7 @@
 #include <time.h>
 #include "logic.h"
 //p is used as the placeholder board in each function
-typedef struct board
-        {
-        	int **spaces;
-        	int width;
-        	int height;
-        }Board;
+
 int //replaces readInt so that the program dosnt close when a int  is not inputted
     readOption(FILE *fp)//added so that entering anything other than an int caused the program to close
     {
