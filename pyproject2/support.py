@@ -31,7 +31,7 @@ def query(db, count):
         elif (option == 2):
 
             result = shortestMovie(db, count)
-            print(db[result].MOVIE_NAME, db[result].DESCRIPTION, db[result].YEAR, db[result].LENGTH, db[result].RATING, db[result].CAST, db[result].DIRECTOR)
+            print(db[result].MOVIE_NAME, db[result].DESCRIPTION, db[result].YEAR, db[result].LENGTH, db[result].RATING, dresult].CAST, db[result].DIRECTOR)
             print("Enter an option: ")
 
         elif (option == 3):
