@@ -1,0 +1,9 @@
+arrays
+*filters on linked lists
+linked lists and patterns 
+main goal of the atst is use patterns to accomplish things
+loops
+strings
+
+
+monday scope
