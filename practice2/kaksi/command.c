@@ -9,6 +9,10 @@ int main(int argc, char *argv[])
 	int Ints;
 	char *  Bool;
 	char * string;
+  if (argc != 4)  {
+    printf("need 3 args\n");
+    exit(1);
+  }
 	Bool = argv[1];
 	string = argv[2];
 	Ints = atoi(argv[3]);
