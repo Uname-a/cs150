@@ -1,0 +1,706 @@
+day 2 - jan 13
+  technology -"acoplishing a task using technical processes methods or knowledge"
+  crime - "the commision of a forbidian act ( or failure to act) within a particular
+    jusrisdiction"
+  technology has always been used to commit crimes
+
+  technology--  didgital natives and didgital immigrants
+  globalization "intergrating the world"
+  the internet is open
+  iworld pop is 7.2 bill 40% have internet access
+  96% have mobile phones 1 for every5 people in the world
+  i2.8 million have home internet access
+
+    digital immigrants vs natives
+
+  the internets intended use communication
+    virus malware theft
+
+  people spending more on internet than with real people
+  "ultimae isolating technology"
+  increased hate groups extreamists and criminals
+
+day three - jan 15
+  lecture 1 reccap
+    how has the internet inpacted society
+      lesson social interaction
+      Lovewers inhibitions
+      accessibillity to other like minded people
+      decreases boundries (international)
+      increased anonymity
+    how has globalization impacted crime
+
+  lecture 2
+    cyberspace - the indefinite place where individuals transact and communicate
+    "virtual world"
+    the internet increased the physicality of the virtual world by
+      some people spend more time in the virtual world than in real life
+    The information age - marked by the increased production transmission and
+        consumption of and reliance on information
+      *began toward the end of 20th century
+      *current stage of society
+    how the information revolution impact crime compaired to the indusrial
+      revolution
+    Computer crims origanally referred to "theft of computers or computer components"
+      digital age chanded the meaning of the word "computer crime"
+      teh infomation age is also refered as digital revolution
+    computer crime in this class is - criminal act committed via a computer
+      hacking
+      digital piracy
+      child pornography
+    computer related crime - broader term which includes activities in which
+        a computer was perpherally involved
+    cyber crie - any criminal activity committed through or facilatated by the
+        internet
+      has to have the internet involved
+      distributing child pro
+      virus
+    cyber space vs real world crimes
+      no physical presence to perpetrae crimes
+      crimes easily committed internationally
+      lack extensive ools to commit crimes
+      less tools = less evidence
+      cyberspace a crime scene
+      lack of legal consensus
+    computer crime stereotypws
+      indifference by law enforcment
+      non threatening socially inept
+      focus on certain types while ignoring other forms
+    lack of reporting
+      in 2010 the
+      5412 emailed but inly 351 responed
+      average cost per financial fraud incident was $100,000
+      67% reported malware infection
+      29% reported bots/zombies in organization
+      39% reported phishing
+
+        need to assure consumers of sta safty
+        do not want to share info with law enforcement
+        quwstion law enforcement capabilities
+        multiple jurisdictions
+        will not result in identification of a person anyways
+    computer crime is divied 3 ways
+      computer as a target
+      computer as an instrument /tool
+      computer as an incidental( furtherance of the crime)
+
+      computers as the target
+        phreaking = phone + freak
+          breaking into phone netwoek to gain free calls/ wire tap
+          precursor to computer hacking
+        trojan horse - gives hackers remoteaccess to your computer
+        piracy - theft of intellectual property ( duplicating software)
+      computers as the tool
+        increased anonymithy and reduced physical boundaries
+        child porn, stalking, gambaling
+        embezzlement - theft by person who is in position of trust
+      computers as an incidental
+        computers storage for crime unrelated to tech
+        homicide investigation
+        drug dealers
+        burglary
+
+    summery
+      anyone can be the target of perpatratior to computer crimes
+      computers can be evidiace to anything
+
+day four 1-20-15
+  lecture 2 recap
+    difference between cyber and computer crime
+      cyber crime uses the internet
+      computer crime dosnt use the interneet
+      computer related crim e the computer holds evidance
+    difference between cyberspace and real world crimes
+      boundries cyber can be anyware real world has to be close
+      cyber does not have as much evidance no p
+      less tools  = less evidance
+      no physical presence to perpetrate crime
+      no boundaries international
+  differnet types of cyber crimes chapter 2 of book
+    computer crime 
+      to better understand motivaations and activitioes
+        computer as the target
+        computer as a tool
+        computer as an incidental
+      the comuter as a target
+        attempts to break into a computer
+        steals info from the computer
+        bombards or launches an attack from the outside
+        causes damage to the computer
+
+        examples
+          hacking/cracking
+          dos
+          malware
+        malware
+          malicious programing code
+          code that distrupt computer operation
+          gather sensitive data or gain access to private computer systems
+
+          terms
+            trapdoor backdoor
+            trojan horse program that on its face is laginamite but has a hidden feature
+            virus designed to disperse to other computer for destructicce purpose by
+              by attaching to a host program (transfers by files)
+            worms set of programs which may spread copies of themselves to other computers
+              w/o the action of a human
+            spyware type of malicious software
+
+        spyware
+          software that enables the remote monitorinf of a computer user's activities or info on an
+            individual computer where this software has been installed
+          keyloggers records wvery keystroke of the user and reports this info back to its source
+          sniffers programs that  monitor and analze networks
+
+        denial of service
+          an attept to make a computer or network resource unavailable to its intended users
+            usually bombarded by more phony authentication request than it can handle
+        cyber terrorism 
+          politically motivated use of computers as wepons or as targets intent on violence to influence
+            and audience or cause a goverment to chance policies
+          to be a cyberterrorist attack
+            must be social/ political ideoligy
+            cause widespread fear insociety
+            not have happend yet
+day five 1-22-15
+  the computer as the tool to commit the crime 
+    what are examples of Computer as a tools
+      copyright infingment
+      embezzlement
+      phishing
+      cyberharassment
+      cyberstaling
+      cyberbullying
+    phishing - individuals deceie others by other as legitimate established enterprises so as to steal
+        communication users' valuable personal infomation
+      credit card info 
+      account info
+    cyberharassment - a crime that when someone uses the internet to harrass and torture another person
+       
+    cyberstalking - an individual repetedly harasses or theatens another person 
+        through the use of the internet 
+    cyberbullying - harass insult or humiliate a child preteen or teen through the use of 
+        electronic communication 
+    where do we draw the line between genuine threats and nuisance
+      are people just "too sensitive"
+    if cyberstaling violates the individual then cyberhate violates social and ethnic groups 
+      westboro baptist church
+      hohocaust denial 
+      9/11 never happened
+    what about trolling?
+    
+    old crimes but new tricks
+      cyberextortion - someone who uses a computer to attack/ threaten an individual business  if
+          monwy is not provided to prevent stop the attack
+      vandalism defacing website
+      cyberprostitution - solicitation of sex crimes
+      
+      schapiro group study (2010)
+        of 218 men who answered the craigslist 47% knew that they were minors
+            craigslist closed the adult services in 2010
+    
+    new crimes and new tactics
+      what crimes are not possible with out use of tech?
+        hacking
+        malware
+
+    summery cat of cybercrime
+      target of the crime 
+      tool used to commit the crime
+
+    final thoughts
+      consequences of the internet is tech-talk 
+        anti-forensics websites
+        al qaida'a inspire online magizine
+      should hate speech be protected
+        yes difficult to answer 
+      cybercrimminals consitly seek new opportunities to expoit new victums
+        crimes that havent been touched by tech 
+          very few crimes
+
+day seven 1- 29 -15
+  recap 
+    precurser to hacking 
+      phone phreaking
+        captain crunch whisle
+         blue box
+    why did homebrew club fall apart 
+      because the members started to create business
+      23 compainies came from it
+    how did the motivation of hacking evolve
+      origanally hackers hacked prushed the boundries of tech but now hack to steal
+    what is phishing 
+      is a scam where internet fraudsters send spam or popup messages to lure personal and financial information
+          from unsuspecting victims
+    what is spamming
+      spam is when mass emails or other posts are sent many places arounf the internet
+
+  intro to hackers
+    why are people scared of hackers
+      financial loss
+      personal security
+      espionage
+      international security
+      public safety
+    hackers divide themselves into two school of thoughts
+      1 traditional hackers
+        "yes I am a criminal my crime is that of curiosity"
+        old school hackers - upholds anti-authoritarianism and dedicatinon to info shareing
+        mitnick
+      2 contemporary hacker - money revenge notoriety
+    
+    hacking terminology
+      back door - a hole in security deliberatly left within a program or software which enables non authorized access
+      cracker - individuals violating secure systems for illicit purposes( considered the malicious hacker)
+      hacker - motivated for intellectual pursuits
+      sneaker- individual hired by a company to test its security systems by attempting to violate them 
+      time bomb- triggered by some predeturmined time ( when someone is fired and not avaiable to stop bomb)
+      droppers - programs designed to avoid anti virus detection 
+      botnet- collection of compromised computers controlled by the "botmaster"
+      zombie - a computer that is under the control of a hacker or botmaster
+    general hacker taxonomy
+      1 white hat
+          elites
+          cyberAngel
+          samurais(sneakers)
+      2 gray hat
+          individuals who wear both hats
+      3 black hat
+          crackers
+          cyberterrorist
+      
+      example of a gray hat hacker
+        sneaker that sells info to black hackers
+        anonymous
+      another name of a black hat hacker
+        crackers
+    rogers(2010) hacker catgories
+      toolkit/newbies(NT) - limited hacking abilities (Script kiddies)
+      cyberpunks(CP) - capable of writing their own software/ code
+      Internals(IT) - disgruntled employees
+      Coders(CD) -focus on writing alware and programing
+      Old Guard Hackers(OG) - interested in intellectual endeavor of hacking
+      Professional Criminals(PC) - attack systems for economic reasons
+      cyberterrorist(CT) - attack systems for political or religious reasons
+      who is the most dangerus hackers?
+        internals can be the most scarry because it takes lower skill and can cause lots of harm
+    demographics of hackers
+      no "typical" hacker
+        lack of descriptive statisics due to secret nature of the subculture
+        strong evidence that it is overwhelmingly male
+        white or asian more likely than any other racial group
+        student of hard sciences
+        who became interested in computers at a young age (reverse engineeing)
+      female hackers
+        there is significant gender gap on female hackers
+          female hackers stalked/ harrassed online
+          lack of respect toward female hackers
+          cyberspace is a "gendered" space and anonymity makes it difficult to enforce social norms
+          labled as "scene whores" - hacker groupie who uses her sexuality or cybersex to gain status
+          female hackers often pretend to be men
+      gender gap in STEM
+        gender gap in the science , technology, engineeing, and mathematical sciences (STEM)
+        why are women less involved in computers/technology
+          societal factors(socialization)
+          masculine enviroment ( locker-room climate)
+          online language is based owards men
+        feminist theory - males control and shap technology
+      social orginzation 
+        hackers as anti-social loners who have deep relatonsips with their computers to the detriment of social relatoinships
+
+day eight 2-3-15
+  social organization
+    "hackers as anti-social loners who have deep relatonsips with their computer to the detriment of sociaal relationships"
+    Best and Luckenbill (1982 ) state deviant relationships with one another can be placed on 
+      Deviant peer associations
+      shared deviance
+      Division of labor  within the group
+      Maintain their deviance for an extended time
+    five point continuum of organizational sophistication
+      Loners - least sophisticated
+      colleagues - create a deviant subculture based on shared knowlege
+      Peers - associate and participate in deviance together
+      teams - offend for longer periods of time and have division of labor
+      formal organizations - most sophistication
+    based on this framework  hackers are no the oners and they often operater within social networks
+      often hack in groups and learn from each other
+      on and offline social ties b/w hackers enable info sharing
+      envolved into a deviant communitty
+
+  The hacker subculture 
+    subculture - "any group having certain values, norms, traditions, and rituals that set
+        them apart from the dominant culture."
+      emphasis on certain behaviors
+      developin g skill sets
+      rules or codes of conduct
+    is there a hacker subculture 
+      yes
+
+    Holt (2007) identified five subculture values that set the hacker subculture apart
+        from the rest of society
+      appreciaion of texhnology
+      knowlede- respect and status related to level of knowledge
+      commitment - willing to "learn the craft"
+      identity - defining hackers based on knowledge and skills
+      law/secreecy - understanding legal risks and maintain secrecy
+  reminder-
+    traditional hacker
+    contemporary hacker
+  
+  hacker motives
+    addiction - compelled to hack
+    curiosity - desire to learn and know as much as possible
+    excitment - more exciting than their offline lives
+    money - making a profit or keeping compainies from profiting
+    power(ego)- social status and respec within hacker subculture 
+    Ideologies - political or religious causes
+    peer acceptance - demonstrate their capability to hack by bragging or direct evidence to gain acceptance
+    revenge - desire to et back at those who wronged them 
+ 
+ contemporary motivations
+  six primary motivations for computer intrusion or theft of information
+    boredom ( information voyeurism)
+    Intellectual challenge ( minng for knowlege/pure)
+    revenge ( insiders, disgruntaled)
+    sexual gratifacation ( stalking , harassment)
+    economic(criminal)
+    political(terrorists, spies)
+  who is most identified . caught by law enforcment 
+    intellectual challenge
+  pure/ technical thrill hackers
+    why are tey easily identified by law enforcment 
+      bragging
+    they have their own subculture
+      Ethics
+      Jargon 
+      LIfestyle(annual conferences)
+
+  anonymous
+    hackivism - idea that their actions are sending a message for the greater good
+
+2-5-15
+  tools of the trade
+    anonymity
+    encription
+    steganography
+    social engineering
+  anonymous re-mailers
+    definition a server which recives emails with embedded instructions on where to send them next so the server
+        fowards the emails without reveaking their original source
+      strips the sender's address and replaces it with pseudonym befor sending 
+    do they protect our first amendment rights and right to privacy?
+      yes
+  anonymizor - a tool that attemps to make internet activity untracible 
+    aka anonymizer proxy
+    a proxy server that acts as a privacy sheild between your personal computer and the internet by stripping
+        your ip address
+  encription 
+    definition- transforming information using an algorithm to make it unreadable to anyone without a key
+      cryptography - science of writing in secret codes
+      original intended tp be used by financial institutions to prevent the online theft of personal and confidential info
+      proposed federal legislation for encryption keys to be discovered under court order
+  steganography- the science of hiding information
+    repalaces bits of useless pr unused data in regular computer files ( such as a graphic) with bits of different invisible infprmation
+    what is the key difference between cryptography and steganography
+      privacy vs secrecy
+      illegible data vs hidden data
+  social engineering
+    definition - the art of getting access to or information from people or places that the social engineer should not be able to acess
+      espionage
+      intellectual property theft
+    example of social engineering
+  
+  cyberterrism
+    the term was first coined in the late 1980s
+     the defence intelligance agency (DIA) stated a decade later that "cyber is no t a threat at least not yet"
+     cybererwar, cyberterrism cybercrime and hackivism are often incorrectly uses synonymously which is why there 
+        is no " one" definition for cyberterrorism
+    cyber crime is a crime using the internet
+    cyberwarefare - the use of computers and other electronic devices to attacl an enemys information systems
+      uses tactics such as sabptage and espionage( security breaches)
+    in the 1990s the main concern were that cyber terrorists would targer critical infrastructures
+      electric power and water supplty systems
+      penetrate national systems to launch nuclear wepons
+      creating "doomsday" senerios
+    in 1999 president clinton proposed a 40% increase in the budget to protect critical systems
+    blaster.exe virus most damaging virusever worm
+
+    us patrijot act 2001
+      section 814
+        deterrence and prevention pf cyberterrorism forbids unauthorized damage to a protected computer
+      section 816 allows the attorney general to establish regional computer forensic laboratories
+     there are some countries that controral the export adn import of cryptography( china vietnam
+     inciting violence or promoting raceism online is illegal in some countries as well (canada)
+
+      read chapter 5
+
+2-10-15
+    computer employee abuse
+        orginzation insiders texh speca;ists as well as all other employees with access to the information systems and resources in the fulfillment of organizationsal reponsiblilities but intentionally exceed or misuse that access in a manner that negativily
+    insider crimes  
+        insider it sabotage
+        Insider theft of intellectual property
+        Insider fraud
+
+        insider it sabotage
+            an insiders use of it to direct specific harm at an organization pr an individual
+        insider theft of intellectual property
+            insiders ise of it to steal intellectual property from the organization ( also includes espionage)
+        insider fraud 
+            insiders use of it for the unathorized modifacaton additon or deletion of an organization data
+                    for personal gain or theft of information which leads to fraud ( identity theft)
+    over view of insider abuse 
+        according to the computer security institut insiders accounted for 16% of attacks and 25% of responding businesses indicated that they had experienced insider abuse of internet access or email in 2010
+    behavioral information security 
+        BIS - the area of information security research that deals with the abuse behavior of insiders
+        Bis views insiders as the :weakest link" in an organization security chain and are viewed as security threats
+        many organizations hace sought to deter computer abuse by employing the tenets of general deterrence theory(GDT)
+        * Orginzation adhering to a GDT view employeed as a rish and seek to limit insiders damage by applying sanctions 
+        * certa
+    Motivation for study 
+        biggest motivaion for computer abuse is retaliation and ager and the greatest deterrent is sanction
+        based on this berns et al conducted a study that incoperated both incentives and disincentives of security related intentions and or ehaviors into single research modles
+
+        retaliation and anger and job condiions job iduced tension or stress might be a result of any of a number of stimuli such as abuse supervision incivility in the workspace or perceptions of injustace
+                amoung other
+        thers jpb cpnditions can result in anger and desires for retaliation which have been shown to lead to deviant or sabotage behavior
+        in a tech enabled workspace such desires for retaliation have been shown to be manifested through acts of computer abuse
+        
+        personal rewards 
+            behaviors that recive positive reinforcment is more likly to reoccur than negative reinforcment 
+            extrinsic ( ie financial) rewards make it possible for people to act contrary to their usual behavior
+                individual with strong moral convictions less likely ot engage in insider abuse despite finantil rewards
+
+            case studys have found that insiders are suscepatible to financial rewards form third parties seeking some benefir from intentional ,isuse of information resources and systems
+        personal factors 
+        negative affect ( a genaral dimension of subkective distress materialized in aversive mood states such as anger guil fear and nervousness ) has been show to be related to sounterproductive work behaviors
+        the role of personally derived learning behaviors sich as the motivationsal impact of curiosity has ben of interest in organizational behavior
+        perosnal factors such as negative affesct and personal curiosity are supported by the literature as potentaially increasing computer abuse
+
+        finding from research 
+            personal idelogy ( aka good moral) is the most thing that prevents a person to abuse 
+            unhappy people are causing 
+
+            sanctions are the most reported reaseon but personal moral values is the second reason to not cause abuse
+
+
+
+Internet child pornography
+    child porn in the preinternet
+    invention of the camera in 1824 
+    child pron isnt new
+    pedophiles were the main prducers ( cotage industry)
+    ten year madness of 1969 - 1979
+        demark legalized child porn
+        sexual revolution in the us
+        changed from cottage to commercial industry
+        chapter 6 in book
+    1980 denmark criminalized CP production 
+        changed back to a cottage industry
+    CP morphed again to a cermertial proble with the internet
+    20% of all pornography avaiable via the Internet contains children 
+    More consumers of CP than child sex offenders
+    
+    the united states attempts at regulating the internet child porn industry through lgislation have contuisly clashed 
+        with the first amendment (freedom of speech and expression)
+        fourth amendment (protection against unlawful search and seizure)
+    obscene - illegal expressions of speech
+    indecent - protected expressions of sppeech under the first admendment
+
+    Protection of Children against sexual exploitation act(1978)
+        Prohibited the production or commercial distribution of obscene materials depicting minors under the age of 16 years
+        Prevention of child sex abuse > First amendment right 
+    chid protection act of 1984
+        redefined "sexual conduct and minor" ( under the age of 18 years)
+        child pornography did not havve to involve "obscene" behavior ( sexual activity) but may include visual descriptions of non-obscene behavior(clothed genitall region)
+        criminal individuals who produced or trafficked non- commercial child porn ( withour finacial motives)
+    Child porn and obscenity enforcment in 1988
+        1st law to address computers
+        illegal to use a computer to distributing 
+    osborn vs ohio (1990)
+        personal possession of child porn ruled as a criminal offense
+        child porn " springs from a grievous harm and pedophiles may use it to seduce"
+        grooming 
+    child porn protection act(1996)
+        virtual child porn
+        images of a minor what was created through the use of tech rather than the actual explotation of a real victim
+        congress stated it " inflames the desire of child milesters pedophiles and child porn"
+
+    Ashcraft vs Free Speech Coalition (2002)
+        "appears t obe" and " conveyed the impression " violated constitutional rights ( too broad and vague)
+        Protected under First Amendment because Ferber defined CP as obscene to protect children from sexual abuse
+
+    Protect act of 2003
+        courts burdened with providing the images were of real children and not virtual children 
+        persons who appear virtually indistinguishable from actual minors
+        burden of proof shifted to the Defence
+
+    Protect Our children act of 2008
+        created new offense " morphed" child porn
+        non pron images of real children modification or changed to create child porn
+
+    summery
+        "criminalizes the possession distrabution and production of sexual explicit images of individuals ( actual or indistinguishable from ) under the age of 18 years"
+    
+    senticing guidlines
+    in 1987 first set of sentencing guidelines for child porn 
+    sliding scale b/w min and max:
+        start with baseline sentence for the offense 
+        mitigating and aggregatinf gactors considered
+    advisory rather than mandatatory - sole discretion given to the judge
+    harsher sentences for production distrabution and possession respectivly
+
+    offense characteristics leadin to harsher sentence  
+        number of images in collection  
+            scaked 10-149 through 600 images
+        violent images of child sex abuse(sadism)
+        Real vs Virtual
+
+    Protection of children from sexual predators act(1990)
+        ISp have a duty to report to law enforcement ant known incidents of CP
+        not required to monitor or restrict information 
+        allowed supoenas for client information
+        no civil liability
+
+    protect our children act(2008)
+        cyberTipline of ncmec
+        ncmec responsible for contacting law enforcement
+        ncmec contacts ISP to block transmission of images 
+        granted limited immunity - good fath
+        isp still socially and politically pressured to block filter or delete child porn content
+
+filtering software
+    libarys reciving fedual funding must block porn and words
+        overblocking and underlocking
+    digital divide
+        
+    blocking isp are pressured to block CP
+    emotion led policy
+    a cp user can be sentenced more than a child sex offedner
+
+    copine project(1997)
+    10 levels of severity
+    looked at all pictures
+    level 1 idicative
+        advertisements
+    level 2 nudist
+        art gallery or family photo alblem
+    level 3 erotica
+    level 4 posing
+        partial or no clothing
+    level 5 erotic posing
+    level 6 explicit erotic posing
+
+The ICMEC study in 2008 assessed whether the 187 member countries had national legislations:
+    1 specific to child pron
+    2 defined child porn
+    3 criminalized computer -facilitated offences
+    4 criminalized personal possession5 mandated reporting y ISP
+
+    australia 
+    belgium 
+    france
+    south africa
+    united states
+
+    24 had all but #5
+    93 had no laws addressing child porn
+
+    have no laws china bahamas afganistan russia thiland
+
+Understanding pedophilia
+    pedophilia is a clinical diagnosis usually made y a psychiatrist pr psychologist
+    it is not a crime or legal term such as forcible sexual offence which is a legal term often used in criminal statisics
+
+    DSM-IV-TR:
+    pedophilia is labled as a specific type of paraphilia under the sexual and gender identity disorders
+    a paraphilia is characteristics of recurrent intense sexual urges fantasies or behaviors that involve unusual objects activities or situations which cause clinicallt significant distress
+    
+    pedophilia is a focus-specific paraphilia involving prepubescent children ( usually under the age of 13 years)
+    criticisms:
+        Limits the clinical diagnosis of pedophilia to individuals with a sexual prefrence for prepubescent children
+        controversal diafnoses of Paraphilia _ Not otherwise specified for individuals attracted to pubescent children
+    
+    those who engage in activities with teens ages 13-16
+    Hebophiles ( attracted to females )
+    Ephebophiles ( attracted to males)
+
+    Hebophilia ( generic term to describe sexual interests in either male or female pubecent children
+    Teleiophile applies to an adult who prefers physically mature partners
+    Infantophilia describes individuals iterested in children younger than 5 
+
+    DsM-V 
+        replaces pedophilia with pedohebephilic to encompass the sexual preference for both prepubescent ( generally 11 years or younger) and pubecent children ( 11 to 14)
+        Differentiates between those individuals who only have deviant sexual thoughts regarding children ( paraphilia ) from those who also experience social or interpersonal distress as a result( paraphilic behavior )
+
+        the individual s has to be 18 and at least 5 years older 
+
+    ICD-10 
+        World Heath WHO International classification of Dise
+        is considered a disorder of sexual preference 
+        prepubescent children
+
+    penile plethysmograph - measured how aroused a male is 
+        greater response to child sexual stimuli to others suggest pedophilic sexual desires
+
+    Abel assessment for sexual interest 
+        computerized software tool measures the amount of time an individual views various forms of sexual stimuli
+        
+        larger response times indicate greater sexual interest
+
+    screening scale for pedophilic interest 
+        four item scale which users the individuals sexual offense history to mesure the individual's level of sexual interest in children
+
+    self report 
+        most direct method for assessing someone's sexual thoughts fantasies and urges
+   
+quiz
+    1:  yes it should 
+    2:  social implication people will be able to get help
+        legel implications discrimination laws
+    3:  it should be legel except for those who been convicted
+    
+lecture recap 
+    1: what is ment by the fact that society often confuses
+        offences focused vs clinical diagnosis
+    2: is pedophilia easy to diagnosis
+        no
+
+labeling dilemma
+    internet child porn users labled as:
+        technophiles 
+        pedophiles
+        child molesters
+        internet sex offenders
+        online predators
+        hands-off internet offenders
+    confuse socio-legal definitions with psychopathical definitions 
+
+    Not all child porn consumers are pedophiles or hands-on sex offenders 
+    not all men/ women who are sexually interested in children meet the diagnosis criteria for pedophilia 
+    not all pedophiles engage in hands-on child sex abuse
+    
+    child porn offenders are almost 3 times likly 
+    seto 2006 penile plethysmograph used one sudy influenced the dsm V
+
+    some research show that internet child porn users show more pedophilic behaviors
+    shelden and howitt 2008
+        most fanticies were normal devient fantices were rare
+        the internet only offenders scored higher with girl sexual fantices vs contact only offenders
+        diff between is that internet only are able to faticse better
+
+    child porn collections not only contain sexual images of children but other genres of porn both deviant and socially aceptable in nature
+    some offenders move through a variety of porn users each time accessing more extreme material
+        desensitization discover other forms of devient porn
+
+    normal sexual deviance
+        21% of the university students reported soe level of sexual attration to children
+        9% reported fantasies about having sex with a child
+        5% reported masturbating during the child sex fantasies
+        numbers are probably higher
+
+    "normal" sexual deviance
+    in melanesia one tribal group has a rituals for 
+
+    
+

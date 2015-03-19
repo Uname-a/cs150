@@ -1,0 +1,49 @@
+day one :
+  10 labs 
+    each will have 3 lab assignments and a pre-lab assignment 
+      some will have homework
+        homework will be due begiing of next lab
+
+  30% learn software
+    base 10 8547 = 8*10^3 + 5 * 10^2 + 4 * 10^1 + 7 * 10^0
+    num_n * 2^n
+
+    take 857 base ten to base 2
+
+day 2 :
+  tests on powerpoints
+  bools and logic gate 
+  one and zero are on /off
+  serial connection : L(x1,x2 ) = x1 * x2 (x1 AND x2)
+  iparrallel connection is an OR 
+  serial parrallel connection both AND and OR
+  truth tables :-)
+
+  delay in real life gate delay
+  single varible theorems
+  priciple of duality
+    replace * with + and vice versa
+    replace 0s with 1s and vice ersa
+    statment will be true
+    
+
+    16a
+
+    !x1 !x2 + x1(x2 + !x2) = x1 !x2
+    x + !x * y = x + y
+      x(y + !y) + !x y
+      xy + x !y + !x y
+      x + y
+      
+    prove demorgans therom with venn diagram
+      x * y + !x * z + y * z = x * y + !x * z
+    NOT <- AND<-OR
+      x1 * x2 + !x1 * !x2 = (x1*x2) + ((!x1)*(!x2))
+    
+    figure out why 
+
+    4 * 3 + 1 * 4 + 3 + not gates = 27
+    
+    notation f(x1,x2,x3) = sum (m1,m4,m5,m6 ) = sum(1,4,5,6)
+    
+

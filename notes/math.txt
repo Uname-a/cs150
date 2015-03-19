@@ -1,0 +1,48 @@
+day 1 1-21-15
+  graph theory
+    order and dependancies
+    vertex node } and { edges
+      vertx are points and edges are the lines
+      V = collection of verticies 
+      E = edges 
+    relation : incidence 
+      edge g is incident on u and x
+        h     "     on v and x
+        i     "     on w and x
+        f     "     on v and w
+        e     "     on u and v
+            } gives g
+        can be drawn differently 
+      isomorphic
+
+      def Vi and Vj are adjacent if there is an edge incident on both vi and vj 
+        v and w are adjecent
+        u and w are not
+      loop an edge that begains and ends at the same place
+        not ok are a edge without two vertexi
+
+      ok: a vertex that has no incident edge is isolated
+      
+      def given 
+        g = {V,E}
+        G' = {V',E'}
+      G and G' are isomorphic provided : there is a function
+        f: V -> V' one to one and onto
+        and a function 
+          g: E->E' one to one and onto
+        and so that for every v in V and e in E
+        v and e are incident if and only if f(v) and g(e) are incident
+      def a graph G is simple if there are no parallel edges and no loops
+    pattern how mant edges can there be in a simple graph with n verticies
+      max edges (n(n-1))/2
+
+    a simple graph where every pair of vertices is adjacen t is said to be complete
+      K_4 notation
+    bipartite graph is one where the set of vertices V = V_1 u V_2 V_1 \cup V_2
+      so no two verticies in V_1 are adjacent and likewise for V_2
+      
+
+notes
+  isomorphic trees
+  PERT
+  if a tree has n vertices then it has n-1 edges
